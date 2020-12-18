@@ -1,5 +1,5 @@
 # Data-Science-and-machine-learning
-Data science and machine learning tutorial
+## Data science and machine learning tutorial
 --- 
 1. Data science methodology
 2. Sql with python 
@@ -8,7 +8,7 @@ Data science and machine learning tutorial
 5. Machine learning with python
 
 ----
-# Udemy data science
+## Udemy data science
 
 ----
-# Machine learning and deep learning book
+## Machine learning and deep learning book
