@@ -1,7 +1,3 @@
-Sebastian Raschka, 2019
-
-Python Machine Learning - Code Examples
-
 
 ##  Chapter 1: Giving Computers the Ability to Learn from Data
 
